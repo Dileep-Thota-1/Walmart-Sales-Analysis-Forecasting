@@ -1,0 +1,40 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Ignore OS and editor-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+
+# Ignore log files
+*.log
+
+# Ignore dotenv environment files
+.env
+
+# Ignore data files (optional — if you don’t want to push them)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+
+# Ignore package metadata
+*.egg-info/
+
+# Ignore VSCode settings
+.vscode/
+
+# Ignore generated files
+*.tmp
